@@ -31,3 +31,51 @@
     transform: rotate(360deg);
   }
 }
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+.App{
+  background-color:rgb(199, 153, 94);
+  width:90vw;
+  margin-left: 70px;
+  font-style: italic;
+  font-family: 'Abril Fatface', cursive;
+}
+.Card{
+  width:80vw;
+  background-color: white;
+  margin-left: 70px;
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+.img{
+  width:450px;
+  height:330px;
+  padding:20px;
+  
+}
+.Footer{
+  display:flex;
+  flex-direction: column;
+  color:white;
+ 
+}
+ul{
+  display:flex;
+  flex-direction: column;
+  justify-items: start;
+  align-items: flex-start;
+  color:rgb(27, 119, 119);
+}
+.Heading{
+  color:rgb(52, 82, 7);
+}
+h4{
+  color:rgb(128, 43, 128)
+}
+h3{
+  color:rgb(104, 104, 25)
+}
+ 
